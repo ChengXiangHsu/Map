@@ -1,0 +1,198 @@
+.title{
+    font-size: 10vw;
+    text-align: center;
+    color: #234F2D;
+    font-family: 微軟正黑體 !important;
+    font-weight: bold;
+}
+#map{
+    background-image: url('./Map/campus.jpg');
+    position: absolute;
+    left: 5vw;
+    top: 20vw;
+    width: 90vw;
+    height: 88vw;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    overflow: scroll;
+}
+#map::-webkit-scrollbar {
+    display: none;
+}
+#recovery{
+    position: absolute;
+    background-image: url('./Map/recovery.png');
+    margin-top: 13.65vw;
+    margin-left: 6.5vw;
+    width: 30vw;
+    height: 35vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#lixin{
+    position: absolute;
+    background-image: url('./Map/lixin.png');
+    margin-top:-2.3vw;/*-51.33*/
+    margin-left: 16.1vw;/*16.1*/
+    width: 27vw;
+    height: 17vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+#success{
+    position: absolute;
+    background-image: url('./Map/success.png');
+    margin-top: 15vw;/*-52.1*/
+    margin-left: 41vw;/*16.1*/
+    width: 28vw;
+    height: 35.5vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#chenxin{
+    position: absolute;
+    background-image: url('./Map/chenxin.png');
+    margin-top: -3vw;/*-52.1*/
+    margin-left: 43vw;/*16.1*/
+    width: 29vw;
+    height: 20vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#dedicated{
+    position: absolute;
+    background-image: url('./Map/dedicated.png');
+    margin-top: -3.7vw;/*-52.1*/
+    margin-left: 69.5vw;/*16.1*/
+    width: 20vw;
+    height: 20vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#strong{
+    position: absolute;
+    background-image: url('./Map/strong.png');
+    margin-top: 17.5vw;/*-52.1*/
+    margin-left: 66vw;/*16.1*/
+    width: 20vw;
+    height: 69vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#victory{
+    position: absolute;
+    background-image: url('./Map/victory.png');
+    margin-top: 48.7vw;/*-52.1*/
+    margin-left: 33.2vw;/*16.1*/
+    width: 37vw;
+    height: 34.5vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+.each{
+    width: 90vw;
+    margin-top: 5vw;
+    margin-left: 5vw;
+    border: #234F2D solid;
+    float: left;
+    border-radius: 30px;
+    padding-bottom: 3em;
+}
+#lix{
+    margin-top: 110vw;
+}
+.campus{
+    /* margin-top: 2vw; */
+    margin-left: 18vw;
+    width: 30vh;
+    height: 30vh;
+    margin-bottom: 2vw;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    float: left;
+}
+#rec_pic{
+    background-image: url('./Map/rec.png');
+}
+#lix_pic{
+    background-image: url('./Map/lix.png');
+}
+#suc_pic{
+    background-image: url('./Map/suc.png');
+}
+#che_pic{
+    background-image: url('./Map/che.png');
+}
+#ded_pic{
+    background-image: url('./Map/ded.png');
+}
+#str_pic{
+    background-image: url('./Map/str.png');
+}
+#vic_pic{
+    background-image: url('./Map/vic.png');
+}
+.explain{
+    font-size: 5em;
+    margin-left: 3vw;
+    margin-top: 3vw;
+    color: #234F2D;
+    font-family: 微軟正黑體 !important;
+    font-weight: bold;
+    text-align: center;
+}
+.bike{
+    font-size: 1.8em;
+    margin-top: 0em;
+    font-size: 5em;
+    margin-left: 18vw;
+    text-align: center;
+    float: left;
+}
+button{
+    margin-left: 5px;
+    font-size: 0.7em;
+    padding: 0.15em;
+}
+/* #che{
+    width: 90vw;
+    height: 25vh;
+    margin-top: 5vw;
+    margin-left: 5vw;
+}
+#ded{
+    width: 90vw;
+    height: 25vh;
+    margin-top: 5vw;
+    margin-left: 5vw;
+}
+#suc{
+    width: 90vw;
+    height: 25vh;
+    margin-top: 5vw;
+    margin-left: 5vw;
+}
+#rec{
+    width: 90vw;
+    height: 25vh;
+    margin-top: 5vw;
+    margin-left: 5vw;
+}
+#str{
+    width: 90vw;
+    height: 25vh;
+    margin-top: 5vw;
+    margin-left: 5vw;
+}
+#vic{
+    width: 90vw;
+    height: 25vh;
+    margin-top: 5vw;
+    margin-left: 5vw;
+} */
